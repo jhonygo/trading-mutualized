@@ -1,3 +1,8 @@
+THESE KEYS ARE NEED TO ACTIVATE THE CONNECTIVITY BETWEEN THE FRONTEND AND BACKEND COMPONENTS:
+service/url/server	http://localhost:8085
+service/url/tradeserver	http://localhost:8080
+
+THESE KEYS ACTIVATE THE PRICING AND BOOKING FEATURES:
 symbol/EURUSD/price	1.1578
 symbol/EURGBP/price	0.8813
 symbol/EURJPY/price	124.57
@@ -7,11 +12,3 @@ symbol/EURGBP/precision	5
 symbol/EURJPY/precision	3
 symbol/EURGEZ/precision	2
 ladder/quantities	5000000,10000000,25000000
-
-service/url/server	http://localhost:8085
-service/url/tradeserver	http://localhost:8080
-execution	TBD	
-pricing	TBD
-market	TBD
-matchingengine	TBD
-orderbook	TBD
