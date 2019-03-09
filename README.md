@@ -1,4 +1,4 @@
-# CONTENT
+# Purpose
 
 This is the configuration of the services of the FX trading platform that are "mutualized"
 
