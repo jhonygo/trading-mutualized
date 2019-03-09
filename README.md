@@ -12,3 +12,7 @@ As such services are usually handled by other teams (infra), have their own life
 ## Networking  
 Prior to run the stack, an explicit network is used here. It can be built using this command:  
 ```docker network create mutualized```
+
+## Feature flags  
+Check the txt file to check the K/V entries to add in Consul to activate connectiviy and enable FX symbols in the pricer, screens...
+
